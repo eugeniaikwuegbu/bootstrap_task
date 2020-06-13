@@ -1,1 +1,1 @@
-I am trying to solve a merge conflict
+I am trying to not have a merge conflict
